@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704350393497",
+    "project_id": "corebiz-da19d",
+    "storage_bucket": "corebiz-da19d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704350393497:android:27ac7c9ed67918878b5408",
+        "android_client_info": {
+          "package_name": "com.corebiz.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJkkKGITd5izpt1NG7KM6mNR1zr8czE8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
