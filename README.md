@@ -66,7 +66,7 @@
 CLIENT=
 
 # App (dev | pro)
-BASE=
+BASE=dev
 
 # Unsplash | unsplash.com/developers
 UNSPLASH_APIURL=
@@ -81,10 +81,6 @@ FIREBASE_MESSAGINGSENDERID=
 FIREBASE_APPID=
 FIREBASE_MEASUREMENTID=
 ```
-
-.env is not being ignored in .gitignore for testing with test credentials.
-
-Credentials will be disabled soon.
 
 ## 📂 Project Structure
 
