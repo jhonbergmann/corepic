@@ -63,7 +63,7 @@
 
 ```bash
 # Client
-CLIENT=
+CLIENT=corebiz
 
 # App (dev | pro)
 BASE=dev
