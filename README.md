@@ -16,6 +16,13 @@
   <img src="docs/assets/illustration4.jpg" width="45%"  alt="illustration" >
 </p>
 
+<p align="center">See a preview.</p>
+
+<p align="center">
+  <img src="docs/assets/preview1.gif" width="45%"  alt="illustration" >
+  <img src="docs/assets/preview2.gif" width="45%"  alt="illustration" >
+</p>
+
 ## 📦 Tech Stack
 
 - Expo
@@ -317,10 +324,3 @@ To install and run the project locally, follow these steps:
 
 1. Start the development server: `npx expo start`
 1. Read the QR Code with the Expo Go app
-
-<p align="center">See a preview.</p>
-
-<p align="center">
-  <img src="docs/assets/preview1.gif" width="45%"  alt="illustration" >
-  <img src="docs/assets/preview2.gif" width="45%"  alt="illustration" >
-</p>
